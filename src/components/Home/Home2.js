@@ -20,35 +20,27 @@ function Home2() {
               <br />
               <br />
               I’m proficient in
-              <i>
-                <b className="purple">
-                  {" "}
-                  Python, JavaScript, and Modern Web Technologies.{" "}
-                </b>
-              </i>
+              <b className="purple">
+                {" "}
+                Python, JavaScript, and Modern Web Technologies.{" "}
+              </b>
               <br />
               <br />
               My key areas of interest include developing new
-              <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Automation Scripts (Playwright),{" "}
-                </b>
-              </i>
+              <b className="purple">
+                {" "}
+                Web Applications, Automation Scripts (Playwright),{" "}
+              </b>
               and exploring <b className="purple">AI/ML integrations.</b>
               <br />
               <br />
               Whenever possible, I love building projects with <b className="purple">FastAPI</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
+              <b className="purple">
+                {" "}
+                Modern Javascript Library and Frameworks
+              </b>
               &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              <b className="purple"> React.js and Next.js</b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
