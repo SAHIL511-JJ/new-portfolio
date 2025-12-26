@@ -14,7 +14,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               I’m a <b className="purple">Software Developer, Automation Tester, and Final Year Student</b>
-              who loves transforming ideas into reliable, scalable products.
+              &nbsp;who loves transforming ideas into reliable, scalable products.
               <br />
               <br />I am currently working as an <b className="purple">Intern at Ekam Apps</b>.
               <br />
