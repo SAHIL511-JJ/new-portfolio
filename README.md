@@ -5,13 +5,7 @@
 
 <br/>
 
-<center>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![Get in Touch](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahil-lamture-9b4956386/)
-
-</center>
 
 <br/>
 
