@@ -559,7 +559,7 @@ button:focus {
   display: flex !important;
   align-self: center !important;
   justify-content: center !important;
-  font-size: 1rem !important;
+  font-size: 4.5em !important;
   margin: 15px !important;
   padding: 10px 20px !important;
   opacity: 0.93 !important;
